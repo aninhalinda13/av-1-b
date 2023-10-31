@@ -5,20 +5,20 @@ body {
 
 }
 .botão{
-    background-color: aqua rgb(123,123,241);
-    color:aquamarine;
+    background-color: rgb(255, 0, 128) rgb(241, 123, 192);
+    color:rgb(255, 127, 144);
     border;:none;
     padding: 10px 20px;
     cursor: pointer;
     transition: 0.3s aese;
 }
 .botao:hover{
-    background-color: blue;
+    background-color: rgb(255, 0, 128);
 }
 .cabecalho{
-   background-color: aquamarine;
+   background-color: rgb(255, 127, 159);
    padding: 50px;
    width: 50%;
    border-style: groove;
-   border-color: aqua;
+   border-color: rgb(255, 0, 119);
 }
