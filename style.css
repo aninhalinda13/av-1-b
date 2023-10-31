@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine(123,123,241);
+font-size: 30px;
+}
+.botão{
+    background-color: aqua rgb(123,123,241);
+    color:aquamarine;
+    border;:none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s aese;
+}
+.botao:hover{
+    background-color: blue;
+}
+.cabecalho{
+   background-color: aquamarine;
+   padding: 50px;
+   width: 100%;
+   border-style: groove;
+   border-color: aqua;
+}
