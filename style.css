@@ -18,7 +18,7 @@ body {
 .cabecalho{
    background-color: aquamarine;
    padding: 50px;
-   width: 100%;
+   width: 50%;
    border-style: groove;
    border-color: aqua;
 }
